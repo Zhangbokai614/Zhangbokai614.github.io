@@ -1,0 +1,21 @@
+{
+  "name": "zhangbokai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev ./docs",
+    "docs:build": "vuepress build ./docs",
+    "docs:clean-dev": "vuepress dev ./docs --clean-cache",
+    "docs:update-package": "npx vp-update"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "2.0.0-rc.0",
+    "@vuepress/client": "2.0.0-rc.0",
+    "vue": "^3.3.9",
+    "vuepress-theme-hope": "2.0.0-rc.1"
+  }
+}
