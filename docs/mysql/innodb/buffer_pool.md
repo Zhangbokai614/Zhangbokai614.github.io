@@ -1,9 +1,9 @@
 ---
-cover: /assets/images/cover2.jpg
+cover: /assets/images/mysql/0.png
 icon: pen-to-square
 date: 2023-04-30
 category:
-  - mysql
+  - MySQL
 tag:
   - Innodb
   - Buffer pool
@@ -11,7 +11,7 @@ star: true
 sticky: true
 ---
 
-# Buffer pool
+# MySQL-Buffer pool
 
 &emsp;&emsp;由于硬盘读写速度等问题，在一般的数据库中进行 **I/O** 操作是非常耗时的，MySQL 为了减少 I/O 操作的次数，使用了 **Buffer pool** 机制，通过它，MySQL 可以把**常用**的数据储存在**内存**中，这样下次操作相同的数据时直接从内存中读取即可，不需要再去硬盘中抽取数据而执行耗时的 I/O 操作
 

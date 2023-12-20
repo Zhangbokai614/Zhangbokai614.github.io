@@ -4,6 +4,8 @@ layout: BlogHome
 icon: home
 title: 首页
 heroImage: /logo.svg
+heroImageStyle:
+  border-radius: 100%
 heroText: Transistor
 heroFullScreen: true
 tagline: Output is the best input

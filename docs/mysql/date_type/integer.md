@@ -1,15 +1,15 @@
 ---
-cover: /assets/images/cover2.jpg
+cover: /assets/images/mysql/0.png
 icon: pen-to-square
 date: 2023-03-10
 category:
-  - mysql
+  - MySQL
 tag:
   - integer
 star: true
 sticky: true
 ---
-# Integer
+# MySQL-Integer
 
 ## Feature
 | **Type** | **Storage (Bytes)** | **Minimum Value Signed** | **Minimum Value Unsigned** | **Maximum Value Signed** | **Maximum Value Unsigned** |
