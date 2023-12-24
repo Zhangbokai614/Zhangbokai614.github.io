@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://www.yuque.com/zhangbokai-",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
   logo: "logo.svg",
 
