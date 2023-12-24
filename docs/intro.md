@@ -1,5 +1,5 @@
 ---
-icon: circle-info
+icon: flat-color-icons:about
 # cover: /assets/images/cover3.jpg
 ---
 
@@ -10,22 +10,22 @@ icon: circle-info
 My name is ***Bokai Zhang***. I'm a Fullstack software engineer. 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,flutter,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=go" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,c,python,js" />
+    <img src="https://skillicons.dev/icons?i=js,react,vue,flutter,tailwind" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=codepen,electron,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongo" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,mysql,redis,postgres" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 
@@ -37,8 +37,9 @@ My name is ***Bokai Zhang***. I'm a Fullstack software engineer.
 
 ### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my [Yuque](https://www.yuque.com/pluto-) & [Observable](https://observablehq.com/@zhangbokai614) & WeChat.
+Apart from coding, I also maintain a blog - you can find my articles on my [Blog](https://zhangbokai614.github.io) & [Yuque](https://www.yuque.com/pluto-) & [Observable](https://observablehq.com/@zhangbokai614?tab=profile&type=collections) & WeChat.
 
 <p align="center">
   <img src="https://github.com/Zhangbokai614/Zhangbokai614/assets/64344118/1dcd1777-718b-4cc9-bf30-3e2fc31ffdb0" />
+  <img src="https://github.com/Zhangbokai614/Zhangbokai614/assets/64344118/a2e0dd99-e907-4d41-be86-3d4b39e4323f" />
 </p>
