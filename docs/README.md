@@ -1,8 +1,8 @@
 ---
 home: true
 layout: BlogHome
-icon: home
-title: 首页
+icon: flat-color-icons:home
+title: Home
 heroImage: /logo.svg
 heroImageStyle:
   border-radius: 100%
@@ -11,26 +11,26 @@ heroFullScreen: true
 tagline: Output is the best input
 bgImage: /banner.jpg
 projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
-    color: 
+  - icon: mdi:github
+    name: GitHub
+    desc: 工作与开源
+    link: https://github.com/Zhangbokai614
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+  - icon: "mdi:more-horiz"
+    name: 微信公众号
+    desc: 文章发布
+    link: /more
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+  - icon: simple-icons:observable
+    name: Observable
+    desc: js 绘画集
+    link: https://observablehq.com/@zhangbokai614?tab=collections
 
-  - icon: /logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  - icon: ri:yuque-fill
+    name: 语雀
+    desc: 我的数字花园
+    link: https://www.yuque.com/zhangbokai-
+
 
 # footer: 自定义你的页脚文字
 ---
