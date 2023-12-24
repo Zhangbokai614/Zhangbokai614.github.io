@@ -9,7 +9,7 @@ heroImageStyle:
 heroText: Transistor
 heroFullScreen: true
 tagline: Output is the best input
-bgImage: /wallhaven-4lq36p.jpg
+bgImage: /banner.jpg
 projects:
   - icon: project
     name: 项目名称
