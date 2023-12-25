@@ -4,12 +4,13 @@ layout: BlogHome
 icon: flat-color-icons:home
 title: Home
 heroImage: /logo.svg
+heroAlt: https://github.com/Zhangbokai614
 heroImageStyle:
   border-radius: 100%
 heroText: Transistor
 heroFullScreen: true
 tagline: Output is the best input
-bgImage: /bannerd2.png
+bgImage: /banner-d.png
 bgImageDark: /banner.jpg
 projects:
   - icon: mdi:github
@@ -31,7 +32,6 @@ projects:
     name: 语雀
     desc: 我的数字花园
     link: https://www.yuque.com/zhangbokai-
-
 
 footer: 友情链接：<a href="https://shplume.github.io"> zhangjundan </a> 、 <a href="https://zequanr.github.io"> wangzequan </a>
 ---

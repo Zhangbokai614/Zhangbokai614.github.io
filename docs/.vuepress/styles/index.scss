@@ -7,6 +7,18 @@
     }
 }
 
+.vp-blog-mask::after {
+    background: #ffffff00;
+}
+
+.vp-blog-hero {
+    color: #0b0b0b;
+
+    html[data-theme="dark"] & {
+        color: #efefef !important;
+    }
+}
+
 .vp-navbar .vp-repo-link {
     color: rgb(42, 42, 42);
     
@@ -16,7 +28,7 @@
 }
 
 :root {
-    --bg-color-back: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='50' height='29.442' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0,0%,100%,1)'/><path d='M35.569-17.373 22.959 4.468l-12.61-21.841Zm0 29.442-12.61 21.84-12.61-21.84Zm25-14.721-12.61 21.841-12.61-21.841zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L39.7 4.95l12.61 21.84zM10.569-2.652l-12.61 21.841-12.61-21.841Zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L-10.3 4.95l12.61 21.84zm25-14.72L14.7-9.773l12.61 21.842zm0 29.441L14.7 19.67l12.61 21.841z'  stroke-width='1' stroke='hsla(259, 100%, 96%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+    --bg-color-back: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='50' height='29.442' patternTransform='scale(4) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0,0%,100%,1)'/><path d='M35.569-17.373 22.959 4.468l-12.61-21.841Zm0 29.442-12.61 21.84-12.61-21.84Zm25-14.721-12.61 21.841-12.61-21.841zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L39.7 4.95l12.61 21.84zM10.569-2.652l-12.61 21.841-12.61-21.841Zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L-10.3 4.95l12.61 21.84zm25-14.72L14.7-9.773l12.61 21.842zm0 29.441L14.7 19.67l12.61 21.841z'  stroke-width='1' stroke='hsla(259, 60%, 96%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
     --bg-color-float-blur: rgb(241 238 238 / 20%);
 
     html[data-theme="dark"] & {
@@ -25,7 +37,7 @@
 }
 
 html[data-theme="dark"] {
-    --bg-color-back: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='50' height='29.442' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(193, 14%, 12%, 1)'/><path d='M35.569-17.373 22.959 4.468l-12.61-21.841Zm0 29.442-12.61 21.84-12.61-21.84Zm25-14.721-12.61 21.841-12.61-21.841zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L39.7 4.95l12.61 21.84zM10.569-2.652l-12.61 21.841-12.61-21.841Zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L-10.3 4.95l12.61 21.84zm25-14.72L14.7-9.773l12.61 21.842zm0 29.441L14.7 19.67l12.61 21.841z'  stroke-width='1' stroke='hsla(259, 6%, 20%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>") !important;
+    --bg-color-back: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='50' height='29.442' patternTransform='scale(4) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(193, 14%, 12%, 1)'/><path d='M35.569-17.373 22.959 4.468l-12.61-21.841Zm0 29.442-12.61 21.84-12.61-21.84Zm25-14.721-12.61 21.841-12.61-21.841zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L39.7 4.95l12.61 21.84zM10.569-2.652l-12.61 21.841-12.61-21.841Zm0 29.441-12.61 21.842-12.61-21.842Zm-33.478 0L-10.3 4.95l12.61 21.84zm25-14.72L14.7-9.773l12.61 21.842zm0 29.441L14.7 19.67l12.61 21.841z'  stroke-width='1' stroke='hsla(207, 22%, 16%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
 }
 
 .dropdown-wrapper .dropdown-title {
@@ -37,14 +49,12 @@ html[data-theme="dark"] {
 }
 
 .vp-project-card.project0 {
-    border-radius: 20px;
     background: rgba(255, 255, 255, 0.1);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
   
     backdrop-filter: blur(2px);
 
     html[data-theme="dark"] & {
-        border-radius: 20px;
         background: rgba(255, 255, 255, 0.06);
         box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
       
@@ -53,14 +63,12 @@ html[data-theme="dark"] {
 }
 
 .vp-project-card.project1 {
-    border-radius: 20px;
     background: rgba(255, 255, 255, 0.1);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
   
     backdrop-filter: blur(2px);
 
     html[data-theme="dark"] & {
-        border-radius: 20px;
         background: rgba(255, 255, 255, 0.06);
         box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
       
@@ -69,14 +77,12 @@ html[data-theme="dark"] {
 }
 
 .vp-project-card.project2 {
-    border-radius: 20px;
     background: rgba(255, 255, 255, 0.1);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
   
     backdrop-filter: blur(2px);
 
     html[data-theme="dark"] & {
-        border-radius: 20px;
         background: rgba(255, 255, 255, 0.06);
         box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
       
@@ -85,14 +91,12 @@ html[data-theme="dark"] {
 }
 
 .vp-project-card.project3 {
-    border-radius: 20px;
-        background: rgba(255, 255, 255, 0.06);
+    background: rgba(255, 255, 255, 0.06);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
   
     backdrop-filter: blur(1px);
 
     html[data-theme="dark"] & {
-        border-radius: 20px;
         background: rgba(255, 255, 255, 0.06);
         box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
       
@@ -115,12 +119,13 @@ html[data-theme="dark"] {
 }
 
 .vp-page .vp-blog-infos {
-    border-radius: 20px;
     background: rgba(255, 255, 255, 0.06);
-    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.18);
   
-    backdrop-filter: blur(1px);}
+    backdrop-filter: blur(2px);
+}
 
 .vp-article-item {
-    background-image: url("/article.svg");
+    background: rgba(255, 255, 255, 0.06);
+
+    backdrop-filter: blur(2px);
 }
