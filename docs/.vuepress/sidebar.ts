@@ -15,7 +15,18 @@ export default sidebar({
       text: "NATS",
       icon: "logos:nats-icon",
       prefix: "nats/",
+      link: "nats/",
       children: [
+        {
+          text: "Core",
+          icon: "logos:nats-icon",
+          link: "core",
+        },
+        {
+          text: "JetStream",
+          icon: "game-icons:splashy-stream",
+          link: "jetstream",
+        },
       ],
     },
     {
@@ -36,6 +47,7 @@ export default sidebar({
       text: "Database",
       icon: "solar:database-bold-duotone",
       prefix: "database/",
+      link: "database/",
       children: [
         {
           text: "MySQL",

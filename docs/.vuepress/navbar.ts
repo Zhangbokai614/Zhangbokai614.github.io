@@ -14,9 +14,7 @@ export default navbar([
     text: "NATS",
     icon: "logos:nats-icon",
     prefix: "/nats/",
-    children: [
-
-    ],
+    link: "/nats/",
   },
   {
     text: "C",
@@ -38,31 +36,7 @@ export default navbar([
     text: "Database",
     icon: "solar:database-bold-duotone",
     prefix: "/database/",
-    children: [
-      {
-        text: "MySQL",
-        prefix: "mysql/",
-        children: [
-          {
-            text: "InnoDB",
-            icon: "material-symbols:article-outline",
-            link: "innodb"
-          },
-          {
-            text: "DataType",
-            icon: "material-symbols:article-outline",
-            link: "data_type"
-          },
-        ],
-      },
-      {
-        text: "Mongo",
-        prefix: "mongo/",
-        children: [
-          "transaction",
-        ],
-      },
-    ],
+    link: "/database/",
   },
   {
     text: "Math",

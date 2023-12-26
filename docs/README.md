@@ -30,7 +30,7 @@ projects:
 
   - icon: ri:yuque-fill
     name: 语雀
-    desc: 我的数字花园
+    desc: 数字花园
     link: https://www.yuque.com/zhangbokai-
 
 footer: 友情链接：<a href="https://shplume.github.io"> zhangjundan </a> 、 <a href="https://zequanr.github.io"> wangzequan </a>
