@@ -6,9 +6,7 @@ export default navbar([
     text: "Go",
     icon: "devicon:go-wordmark",
     prefix: "/go/",
-    children: [
-
-    ],
+    link: "/go/"
   },
   {
     text: "NATS",

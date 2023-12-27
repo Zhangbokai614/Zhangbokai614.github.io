@@ -8,7 +8,38 @@ export default sidebar({
       text: "Go",
       icon: "devicon:go-wordmark",
       prefix: "go/",
+      link: "go/",
       children: [
+        {
+          text: "Slices",
+          icon: "game-icons:sliced-bread",
+          link: "slices",
+        },
+        {
+          text: "Channel",
+          icon: "fluent:channel-share-16-regular",
+          link: "channel",
+        },
+        {
+          text: "Container",
+          icon: "lucide:container",
+          link: "container",
+        },
+        {
+          text: "I/O",
+          icon: "flat-color-icons:print",
+          link: "io",
+        },
+        {
+          text: "OS",
+          icon: "game-icons:planet-core",
+          link: "os",
+        },
+        {
+          text: "Sort",
+          icon: "lets-icons:sort-random-light",
+          link: "sort",
+        },
       ],
     },
     {

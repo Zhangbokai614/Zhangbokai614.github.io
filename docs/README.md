@@ -18,7 +18,7 @@ projects:
     desc: 工作与开源
     link: https://github.com/Zhangbokai614
 
-  - icon: "mdi:more-horiz"
+  - icon: icons8:share
     name: 微信公众号
     desc: 文章发布
     link: /more

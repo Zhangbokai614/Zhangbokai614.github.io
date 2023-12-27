@@ -1,6 +1,6 @@
 ---
 title: Database
-cover: /assets/images/database/database.jpg
+cover: /assets/images/database/database-2.jpg
 icon: solar:database-bold-duotone
 author: 张博凯
 date: 2023-04-12
