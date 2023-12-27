@@ -9,10 +9,12 @@ export default navbar([
     link: "/go/"
   },
   {
-    text: "NATS",
-    icon: "logos:nats-icon",
-    prefix: "/nats/",
-    link: "/nats/",
+    text: "Javascript",
+    icon: "devicon:javascript",
+    prefix: "/javascript/",
+    children: [
+
+    ],
   },
   {
     text: "C",
@@ -23,18 +25,16 @@ export default navbar([
     ],
   },
   {
-    text: "Javascript",
-    icon: "devicon:javascript",
-    prefix: "/javascript/",
-    children: [
-
-    ],
-  },
-  {
     text: "Database",
     icon: "solar:database-bold-duotone",
     prefix: "/database/",
     link: "/database/",
+  },
+  {
+    text: "NATS",
+    icon: "logos:nats-icon",
+    prefix: "/nats/",
+    link: "/nats/",
   },
   {
     text: "Math",

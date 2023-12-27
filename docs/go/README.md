@@ -13,7 +13,7 @@ sticky: true
 star: true
 ---
 
-### Go 语音源码阅读
+### Go 语言源码阅读
 - [Slices](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2494760918355132416#wechat_redirect)
 
 - [Channel](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2582369702598000641#wechat_redirect)
@@ -27,3 +27,9 @@ star: true
 - [Sort](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2521393708584517636#wechat_redirect)
 
 - [Go 语音系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2494760917331722245#wechat_redirect)
+
+### Authenticate
+- [JWT](https://mp.weixin.qq.com/s?__biz=MzU5MjA3MzMzMA==&mid=2247484899&idx=1&sn=917e4ae4edc583c8a94f9a651a2cc6ad&chksm=fe2402fec9538be81c5edaf2122cd60a2b8903359b3392ae678ad93f7116f47d7d8f340b3103#rd)
+
+- [RBAC](https://mp.weixin.qq.com/s?__biz=MzU5MjA3MzMzMA==&mid=2247485134&idx=1&sn=563fff505cbe31fd66cdb513057f005a&chksm=fe2401d3c95388c59aeb53ccbdf11592c63fa0a4969633bed6c01e23d5598f613254cde38079#rd)
+

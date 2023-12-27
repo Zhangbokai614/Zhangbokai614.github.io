@@ -40,36 +40,23 @@ export default sidebar({
           icon: "lets-icons:sort-random-light",
           link: "sort",
         },
-      ],
-    },
-    {
-      text: "NATS",
-      icon: "logos:nats-icon",
-      prefix: "nats/",
-      link: "nats/",
-      children: [
         {
-          text: "Core",
-          icon: "logos:nats-icon",
-          link: "core",
-        },
-        {
-          text: "JetStream",
-          icon: "game-icons:splashy-stream",
-          link: "jetstream",
-        },
-      ],
-    },
-    {
-      text: "C",
-      icon: "skill-icons:c",
-      prefix: "c/",
-      children: [
+          text: "Authenticate",
+          icon: "material-symbols:switch-access-2",
+          link: "authenticate",
+        }
       ],
     },
     {
       text: "Javascript",
       icon: "devicon:javascript",
+      prefix: "c/",
+      children: [
+      ],
+    },
+    {
+      text: "C",
+      icon: "skill-icons:c",
       prefix: "c/",
       children: [
       ],
@@ -89,6 +76,24 @@ export default sidebar({
           text: "MongoDB",
           icon: "skill-icons:mongodb",
           link: "mongo",
+        },
+      ],
+    },
+    {
+      text: "NATS",
+      icon: "logos:nats-icon",
+      prefix: "nats/",
+      link: "nats/",
+      children: [
+        {
+          text: "Core",
+          icon: "logos:nats-icon",
+          link: "core",
+        },
+        {
+          text: "JetStream",
+          icon: "game-icons:splashy-stream",
+          link: "jetstream",
         },
       ],
     },
