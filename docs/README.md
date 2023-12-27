@@ -40,9 +40,9 @@ footer: 友情链接：<a href="https://shplume.github.io"> zhangjundan </a> 、
 var _hmt = _hmt || [];
   while(true) {
     if (document !== undefined) {
-          var hm = window.document.createElement("script");
+          var hm = document.createElement("script");
           hm.src = "https://hm.baidu.com/hm.js?f3b3102ebd032b085c6e0550c0e02f74";
-          var s = window.document.getElementsByTagName("script")[0]; 
+          var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
 
         break
