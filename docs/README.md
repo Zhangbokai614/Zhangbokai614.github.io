@@ -35,17 +35,3 @@ projects:
 
 footer: 友情链接：<a href="https://shplume.github.io"> zhangjundan </a> 、 <a href="https://zequanr.github.io"> wangzequan </a>
 ---
-
-<script>
-var _hmt = _hmt || [];
-  while(true) {
-    if (document !== undefined) {
-          var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?f3b3102ebd032b085c6e0550c0e02f74";
-          var s = document.getElementsByTagName("script")[0]; 
-          s.parentNode.insertBefore(hm, s);
-
-        break
-    }
-  }
-</script>
