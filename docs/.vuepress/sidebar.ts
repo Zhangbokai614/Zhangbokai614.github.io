@@ -50,8 +50,19 @@ export default sidebar({
     {
       text: "Javascript",
       icon: "devicon:javascript",
-      prefix: "c/",
+      prefix: "javascript/",
+      link: "javascript/",
       children: [
+        {
+          text: "Observable",
+          icon: "simple-icons:observable",
+          link: "observable",
+        },
+        {
+          text: "React",
+          icon: "mdi:react",
+          link: "react",
+        }
       ],
     },
     {

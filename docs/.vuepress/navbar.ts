@@ -12,9 +12,7 @@ export default navbar([
     text: "Javascript",
     icon: "devicon:javascript",
     prefix: "/javascript/",
-    children: [
-
-    ],
+    link: "/javascript/",
   },
   {
     text: "C",
