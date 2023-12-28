@@ -10,8 +10,8 @@ heroImageStyle:
 heroText: Transistor
 heroFullScreen: true
 tagline: Output is the best input
-bgImage: /banner-d.png
-bgImageDark: /banner.jpg
+bgImage: /banner-d.webp
+bgImageDark: /banner.webp
 projects:
   - icon: mdi:github
     name: GitHub

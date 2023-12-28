@@ -1,6 +1,6 @@
 ---
 title: Go
-cover: /assets/images/go/go.jpg
+cover: /assets/images/go/go.webp
 icon: devicon:go-wordmark
 author: 张博凯
 date: 2023-10-16

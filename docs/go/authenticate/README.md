@@ -1,6 +1,6 @@
 ---
 title: Go-Authenticate
-# cover: /assets/images/go/channel.png
+cover: /assets/images/go/authenticate.webp
 icon: material-symbols:switch-access-2
 author: 张博凯
 date: 2023-10-16

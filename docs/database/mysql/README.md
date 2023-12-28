@@ -1,6 +1,6 @@
 ---
 title: MySQL
-cover: /assets/images/database/mysql.png
+cover: /assets/images/database/mysql.webp
 icon: skill-icons:mysql-dark
 order: 5
 author: 张博凯

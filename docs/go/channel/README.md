@@ -1,6 +1,6 @@
 ---
 title: Go-Channel
-cover: /assets/images/go/channel.png
+cover: /assets/images/go/channel.webp
 icon: fluent:channel-share-16-regular
 author: 张博凯
 date: 2023-10-16

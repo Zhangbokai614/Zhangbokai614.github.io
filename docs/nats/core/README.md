@@ -1,6 +1,6 @@
 ---
 title: NATS-Core
-cover: /assets/images/nats/nats-core.png
+cover: /assets/images/nats/nats-core.webp
 icon: logos:nats-icon
 author: 张博凯
 date: 2023-10-16

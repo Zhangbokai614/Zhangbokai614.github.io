@@ -1,6 +1,6 @@
 ---
 title: Go-I/O
-cover: /assets/images/go/io.png
+cover: /assets/images/go/io.webp
 icon: flat-color-icons:print
 author: 张博凯
 date: 2023-10-16

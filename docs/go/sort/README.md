@@ -1,6 +1,6 @@
 ---
 title: Go-Sort
-cover: /assets/images/go/sort.png
+cover: /assets/images/go/sort.webp
 icon: lets-icons:sort-random-light
 author: 张博凯
 date: 2023-10-16

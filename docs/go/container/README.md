@@ -1,6 +1,6 @@
 ---
 title: Go-Container
-cover: /assets/images/go/heap.png
+cover: /assets/images/go/heap.webp
 icon: lucide:container
 author: 张博凯
 date: 2023-10-16

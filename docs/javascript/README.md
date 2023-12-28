@@ -1,6 +1,6 @@
 ---
 title: Javascript
-cover: /assets/images/javascript/javascript.jpg
+cover: /assets/images/javascript/javascript.webp
 icon: devicon:javascript
 author: 张博凯
 date: 2023-10-16

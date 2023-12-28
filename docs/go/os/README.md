@@ -1,6 +1,6 @@
 ---
 title: Go-OS
-cover: /assets/images/go/file.png
+cover: /assets/images/go/file.webp
 icon: game-icons:planet-core
 author: 张博凯
 date: 2023-10-16

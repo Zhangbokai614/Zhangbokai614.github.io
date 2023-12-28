@@ -1,6 +1,6 @@
 ---
 title: React
-cover: /assets/images/javascript/react.png
+cover: /assets/images/javascript/react.webp
 icon: mdi:react
 author: 张博凯
 date: 2023-10-16

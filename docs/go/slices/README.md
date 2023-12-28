@@ -1,6 +1,6 @@
 ---
 title: Go-Slices
-cover: /assets/images/go/slices.png
+cover: /assets/images/go/slices.webp
 icon: game-icons:sliced-bread
 author: 张博凯
 date: 2023-10-16

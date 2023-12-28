@@ -1,6 +1,6 @@
 ---
 title: NATS
-cover: /assets/images/nats/nats.jpg
+cover: /assets/images/nats/nats.webp
 icon: logos:nats-icon
 author: 张博凯
 date: 2023-10-10

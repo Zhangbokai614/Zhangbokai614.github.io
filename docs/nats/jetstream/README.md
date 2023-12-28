@@ -1,6 +1,6 @@
 ---
 title: NATS-JetStream
-cover: /assets/images/nats/nats-jetstream.jpg
+cover: /assets/images/nats/nats-jetstream.webp
 icon: game-icons:splashy-stream
 author: 张博凯
 date: 2023-11-20

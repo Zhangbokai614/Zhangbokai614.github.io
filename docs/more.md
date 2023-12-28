@@ -6,4 +6,4 @@ star: true
 ---
 
 ## 微信公众号
- ![同名微信公众号 - Transistor](/assets/images/wechat/wechat.jpg)
+ ![同名微信公众号 - Transistor](/assets/images/wechat/wechat.webp)

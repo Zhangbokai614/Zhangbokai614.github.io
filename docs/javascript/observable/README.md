@@ -1,6 +1,6 @@
 ---
 title: Observable
-cover: /assets/images/javascript/observable.jpg
+cover: /assets/images/javascript/observable.webp
 icon: simple-icons:observable
 author: 张博凯
 date: 2023-10-16
