@@ -18,9 +18,7 @@ export default navbar([
     text: "C",
     icon: "skill-icons:c",
     prefix: "/c/",
-    children: [
-
-    ],
+    link: "/c/",
   },
   {
     text: "Database",

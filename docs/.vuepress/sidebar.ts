@@ -69,6 +69,7 @@ export default sidebar({
       text: "C",
       icon: "skill-icons:c",
       prefix: "c/",
+      link: "c/",
       children: [
       ],
     },
