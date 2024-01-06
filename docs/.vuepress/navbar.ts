@@ -33,6 +33,12 @@ export default navbar([
     link: "/nats/",
   },
   {
+    text: "Gallery",
+    icon: "solar:gallery-circle-bold-duotone",
+    prefix: "/gallery/",
+    link: "/gallery/",
+  },
+  {
     text: "Math",
     icon: "fluent:math-formula-24-filled",
     prefix: "/math/",
