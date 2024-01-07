@@ -49,10 +49,10 @@ copyright: 张博凯
 ![sort-merge](/assets/images/gallery/sort-merge.png "sort-merge" =x360)
 
 ## Slice
-### Select-Py
+### Slice-Py
 ![slice-py](/assets/images/gallery/slice-py.jpg "slice-py" =x360)
 
-### Select-Go
+### Slice-Go
 ![slice-go](/assets/images/gallery/slice-go.png "slice-go" =x360)
 
 ![slice-go-copy](/assets/images/gallery/slice-go-copy.png "slice-go-copy" =x360)
