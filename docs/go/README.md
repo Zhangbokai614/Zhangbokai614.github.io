@@ -26,7 +26,7 @@ star: true
 
 - [Sort](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2521393708584517636#wechat_redirect)
 
-- [Go 语音系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2494760917331722245#wechat_redirect)
+- [Go 语言系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MjA3MzMzMA==&action=getalbum&album_id=2494760917331722245#wechat_redirect)
 
 ### Authenticate
 - [JWT](https://mp.weixin.qq.com/s?__biz=MzU5MjA3MzMzMA==&mid=2247484899&idx=1&sn=917e4ae4edc583c8a94f9a651a2cc6ad&chksm=fe2402fec9538be81c5edaf2122cd60a2b8903359b3392ae678ad93f7116f47d7d8f340b3103#rd)
