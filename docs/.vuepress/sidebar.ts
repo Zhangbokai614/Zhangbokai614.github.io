@@ -92,6 +92,14 @@ export default sidebar({
       ],
     },
     {
+      text: "Nginx",
+      icon: "logos:nginx",
+      prefix: "nginx/",
+      link: "nginx/",
+      children: [
+      ],
+    },
+    {
       text: "NATS",
       icon: "logos:nats-icon",
       prefix: "nats/",

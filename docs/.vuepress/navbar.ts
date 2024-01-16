@@ -27,6 +27,12 @@ export default navbar([
     link: "/database/",
   },
   {
+    text: "Nginx",
+    icon: "logos:nginx",
+    prefix: "/nginx/",
+    link: "/nginx/",
+  },
+  {
     text: "NATS",
     icon: "logos:nats-icon",
     prefix: "/nats/",
