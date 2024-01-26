@@ -13,6 +13,10 @@ copyright: 张博凯
 ---
 一张好图，胜过千言万语。
 
+## Function
+### Closure
+![closure](/assets/images/gallery/closure.png "closure")
+
 ## Container
 ### Ring
 ![ring](/assets/images/gallery/ring.png "ring" =x360)
